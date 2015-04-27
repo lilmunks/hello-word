@@ -1,3 +1,4 @@
 # hello-word
 hello world demo repo
-My readme now has more info in it.
+I'm human and adding info to my readme in a readme-edits brach.
+i've had tacos on the moon and find them far superior to Earth tacos.
